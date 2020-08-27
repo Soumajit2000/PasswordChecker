@@ -1,6 +1,6 @@
 # PasswordChecker
 A tool created using python and 'HAVE I BEEN PWNED' api that checks whether your password is compromised
-How the tool woorks:
+How the tool works:
 
 1. Download the main.py file on ur local pc
 2. Open Command line tool and cd into the folder where the file is saved
